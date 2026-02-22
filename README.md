@@ -17,7 +17,6 @@ Create a GitHub Actions workflow that uses caching with a specific key. Create a
     -   Added the remote: `https://github.com/archi829/tds-ga2-q7.git`.
 
 3.  **Deployment**:
-    -   Configured git identity (aloktripathi1 / aloktripathe@gmail.com).
     -   Committed and pushed the workflow to the `main` branch.
 
 4.  **Verification**:
